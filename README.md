@@ -2,5 +2,5 @@ Sentiment Analysis is a crucial task in Natural Language Processing (NLP) that i
 
 ---
 
-This project performs sentiment classification on textual data using Natural Language Processing (NLP) techniques. It aims to determine whether a piece of text expresses **positive**, **negative**, or **neutral** sentiment.
+This project performs sentiment classification on textual data using Natural Language Processing (NLP) techniques. It aims to determine whether a piece of text expresses **positive** or **negative** sentiment.
 
