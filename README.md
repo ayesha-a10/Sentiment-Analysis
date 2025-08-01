@@ -11,5 +11,3 @@ This project implements an end-to-end sentiment analysis pipeline to classify us
 - Baseline classification using Naive Bayes  
 - Deep learning model using LSTM (and Bi-LSTM) with Keras  
 - Evaluation using accuracy, F1-score, and confusion matrix  
-
----
