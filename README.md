@@ -14,3 +14,8 @@ Models implemented:
 - **Bidirectional LSTM**
 - **SQL Keyword-based Sentiment Tagging**
 - **Bi-LSTM for Multi-Class Classification**
+
+## Datasets
+
+- Binary classification: https://www.kaggle.com/datasets/vishakhdapat/imdb-movie-reviews
+- Multi-class classificatin: https://www.kaggle.com/datasets/nelgiriyewithana/emotions
