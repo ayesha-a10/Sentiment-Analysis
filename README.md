@@ -1,13 +1,16 @@
-# Sentiment Analysis with Deep Learning & SQL
+# Sentiment Analysis – Binary & Multi-Class Classification
 
-## 📌 Description  
-This project implements an end-to-end sentiment analysis pipeline to classify user reviews as either positive or negative.
+## 📌 Overview
+This repository contains multiple experiments on **Sentiment Analysis**.  
+The goal is to classify textual data into sentiment categories through **comprehensive preprocessing**, **model experimentation**, and **performance evaluation**.
 
----
+We cover:
+1. **Binary Classification** – Positive / Negative
+2. **Multi-Class Classification** – Multiple sentiment labels
 
-## 🔍 Features
-- Data extraction and preprocessing using Python and R  
-- Keyword-based sentiment tagging using SQL queries  
-- Baseline classification using Naive Bayes  
-- Deep learning model using LSTM (and Bi-LSTM) with Keras  
-- Evaluation using accuracy, F1-score, and confusion matrix  
+Models implemented:
+- **Naive Bayes** (Baseline)
+- **LSTM**
+- **Bidirectional LSTM**
+- **SQL Keyword-based Sentiment Tagging**
+- **Bi-LSTM for Multi-Class Classification**
