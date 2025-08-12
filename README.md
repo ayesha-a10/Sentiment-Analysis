@@ -9,11 +9,11 @@ We cover:
 2. **Multi-Class Classification** – Multiple sentiment labels
 
 Models implemented:
-- **Naive Bayes** (Baseline) [58% Accuracy]
-- **LSTM** [85% Accuracy]
-- **Bidirectional LSTM** [87% Accuracy]
+- **Naive Bayes** (Baseline) <span style="color:red">58% Accuracy</span>
+- **LSTM** <span style="color:red">85% Accuracy</span>
+- **Bidirectional LSTM** <span style="color:red">87% Accuracy</span>
 - **SQL Keyword-based Sentiment Tagging**
-- **Bi-LSTM for Multi-Class Classification** [92% Accuracy]
+- **Bi-LSTM for Multi-Class Classification** <span style="color:red">92% Accuracy</span>
 
 ## Datasets
 
