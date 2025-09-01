@@ -10,8 +10,8 @@ We cover:
 
 Models implemented:
 - **Naive Bayes** (Baseline)---58% Accuracy
-- **LSTM**---85% Accuracy
-- **Bidirectional LSTM**---87% Accuracy
+- **LSTM**---86% Accuracy
+- **Bidirectional LSTM**---88% Accuracy
 - **SQL Keyword-based Sentiment Tagging**
 - **Bi-LSTM for Multi-Class Classification**---92% Accuracy
 
