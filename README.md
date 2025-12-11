@@ -19,4 +19,4 @@ Models implemented:
 ## Datasets
 
 - Binary classification: https://www.kaggle.com/datasets/vishakhdapat/imdb-movie-reviews
-- Multi-class classificatin: https://www.kaggle.com/datasets/nelgiriyewithana/emotions
+- Multi-class classification: https://www.kaggle.com/datasets/nelgiriyewithana/emotions
